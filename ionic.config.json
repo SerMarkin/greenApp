@@ -1,0 +1,7 @@
+{
+  "name": "ЭКО КАИ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

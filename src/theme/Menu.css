@@ -1,0 +1,57 @@
+
+.app {
+    background: rgb(39,72,139);
+background: linear-gradient(180deg, rgba(39,72,139,1) 0%, rgba(194,223,252,1) 100%);
+  }
+
+.item {
+    background: rgba(0,0,0,0);
+    border-bottom-color: white;
+    color:white;
+    text-align: center;
+}
+
+.item ion-item{
+    background: rgba(0,0,0,0);
+    border-bottom-color: white;
+
+}
+
+
+.item-native {
+    padding: inherit !important;
+}
+
+a {
+    background: rgba(0,0,0,0);
+}
+
+.avatar {
+    height: 100%;
+    width: 100%;
+    z-index: 200;
+}
+
+.avatar-div {
+    border-radius: 90px;
+    padding: 4px;
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 10%;
+}
+
+.first-panel {
+    padding: 20% 0;
+    height: 20%px;
+    width: 100%;
+}
+
+.horisont-line {
+    width: 100%;
+    height: 2px;
+    background-color: rgba(255, 255, 255, 0.808);
+    margin: 50px 0;
+    z-index: -1;
+    position: absolute;
+}

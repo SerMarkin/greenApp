@@ -1,0 +1,21 @@
+#home-page{
+    .main-card {
+        --background:white;
+        width: 90%;
+        height: auto;
+    }
+    .main-content {
+        --background:#0cd1e8;
+        text-align: center;
+    }
+
+    .img-logo {
+        height: 100px;
+        img {
+            height: 100px;
+            width: 40%;
+            margin: 0 30%;
+        }
+    }
+
+}

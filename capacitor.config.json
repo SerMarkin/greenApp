@@ -1,0 +1,22 @@
+{
+  "appId": "eco.kai",
+  "appName": "ЭКО КАИ",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "linuxAndroidStudioPath" : "/home/er/android-studio/bin/studio.sh",
+  "cordova": {},
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0,
+      "launchAutoHide": true,
+      "backgroundColor": "#ffffffff",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "androidSpinnerStyle": "large",
+      "iosSpinnerStyle": "small",
+      "spinnerColor": "#999999",
+      "showSpinner": true
+    }
+  }
+}

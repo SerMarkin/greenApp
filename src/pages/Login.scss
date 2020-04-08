@@ -1,0 +1,35 @@
+#login-page, #signup-page, #support-page {
+
+  .login-content-main {
+    text-align: center;
+  }
+
+  .login-logo {
+    padding: 20px 0;
+    min-height: 200px;
+    text-align: center;
+  }
+  
+  .login-logo img {
+    max-width: 70%;
+    margin: 0 15%;
+  }
+  
+  .list {
+    margin-bottom: 0;
+  }
+  .loginContent{
+    background:#ffffff ;
+    color: #000000;
+    margin: 10% 10%;
+    width: 80%;
+    height: auto;
+    padding: 5%;
+    text-align: center;
+}
+  input{
+    color:black;
+    text-align: center;
+  }
+
+}

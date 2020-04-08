@@ -1,0 +1,32 @@
+#game-page{
+    .main-card {
+        --background:white;
+        width: 90%;
+        height: auto;
+    }
+    .main-content {
+        --background:#0cd1e8;
+        text-align: center;
+    }
+
+    .info-button {
+        border-radius: 100px;
+        font-family: "Sans-serif";
+        display: inline-block;
+        width: 30px;
+        height: 30px; 
+        position: absolute;
+        right: 10%;
+        top: 15%;
+        --background: white;
+        color: gray;
+    }
+
+
+    .choose-type {
+        width: 90%;
+        height: 30%;
+        margin: 5%;
+        --background: white;
+    }
+}

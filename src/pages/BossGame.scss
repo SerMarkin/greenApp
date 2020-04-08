@@ -1,0 +1,40 @@
+#boss-page{
+    .main-card {
+        --background:white;
+        width: 90vw;
+        height: 80vh;
+        padding: 20px 10px;
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+    .main-header{
+        color: black;
+    }
+    .main-content {
+        --background:#0cd1e8;
+        text-align: center;
+        font-size: 1.1rem;
+    }
+
+    .img-logo {
+        height: 100px;
+        img {
+            height: 100px;
+            width: 40%;
+            margin: 0 30%;
+        }
+    }
+
+    .slide-image {
+        height: 30vw;
+        width: auto;
+        margin: 0 22vw;
+        pointer-events: none;
+    }
+    
+    .img-game {
+        position: absolute;
+        
+        width: 90%;
+    }
+}
