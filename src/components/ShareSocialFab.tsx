@@ -14,7 +14,7 @@ const ShareSocialFab: React.FC<OwnProps> = ({name,id}) => {
     setLoadingMessage(`Posting to ${network}`);
     setShowLoading(true);
   };
-  const shareOptions= {url: "http://vk.com",title: "Теперь я мастерски сортирую мусор, Я "+name+" , присоединяйся!",
+  const shareOptions= {url: "http://play.google.com/store/apps/details?id=eco.kai",title: "Теперь я мастерски сортирую мусор, Я "+name+" , присоединяйся!",
     image:"https://sun9-45.userapi.com/c857120/v857120707/1016ea/EQ7C9FOpm0M.jpg"};
   
   return(
@@ -33,7 +33,7 @@ const ShareSocialFab: React.FC<OwnProps> = ({name,id}) => {
         <IonFabList side="top">
           <IonFabButton color="facebook" onClick={() => openSocial('Vk')}>
             <VKShareButton children={(<VKIcon size={44 } round crossOrigin="*" />)}
-             translate={"yes"} url={shareOptions.url} image={shareOptions.image} 
+             translate={"no"} url={shareOptions.url} image={shareOptions.image} 
              title={shareOptions.title}
              
              />
