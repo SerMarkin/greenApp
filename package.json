@@ -18,7 +18,7 @@
     "@types/react-share": "^3.0.3",
     "date-fns": "^2.6.0",
     "ionicons": "^4.6.3",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "qrcode.react": "^1.0.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
