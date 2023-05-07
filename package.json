@@ -25,7 +25,7 @@
     "react-hooks": "^1.0.1",
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "react-share": "^4.0.1",
     "react-vk": "^5.0.2",
     "reselect": "^4.0.0"
